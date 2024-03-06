@@ -1,3 +1,2 @@
 ## DETECT_ME
-A very Simple Gui app for Face Detection that Collect Face Data, Build Face Classifier and Detect the face. 
-Built with Python, openCV and some very great library.
+DetectMe is a comprehensive web application designed for the collection, classification, and detection of facial data. The primary focus of this project is to empower users with a versatile toolset for managing and analyzing facial information. The application seamlessly integrates data collection, classifier building, and face detection, making it a powerful solution for a variety of applications, ranging from security and surveillance to personalized user experiences.
